@@ -2,4 +2,5 @@
 ## disallow files/folders in same directory as the .gitignore file
 
 !paron/src
-paron/node_modules
+node_modules
+dist
