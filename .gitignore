@@ -1,5 +1,8 @@
 ## __author__ = 'niraj kumar'
 ## disallow files/folders in same directory as the .gitignore file
 
+# Allowed
 !paron/src
+
+# Not allowed
 paron/node_modules
