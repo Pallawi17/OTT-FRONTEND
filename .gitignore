@@ -1,6 +1,6 @@
 ## __author__ = 'niraj kumar'
 ## disallow files/folders in same directory as the .gitignore file
 
-!paron/src
-node_modules
-dist
+!react-app/src
+react-app/node_modules
+react-app/dist
