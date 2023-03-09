@@ -6,3 +6,6 @@
 
 # Not allowed
 paron/node_modules
+!react-app/src
+react-app/node_modules
+react-app/dist
