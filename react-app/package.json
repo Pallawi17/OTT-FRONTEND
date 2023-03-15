@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "rm -rf dist && npm run tailwind && webpack --mode development && npm run dev",
+    "build": "npm run tailwind && webpack --mode development && npm run dev",
     "dev": "nodemon app.js",
     "tailwind": "tailwindcss -i index.css -o ./dist/style.css"
   },
