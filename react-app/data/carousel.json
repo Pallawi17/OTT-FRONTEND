@@ -1,0 +1,29 @@
+{
+  "movie": [
+    {
+      "img": "https://media.contentapi.ea.com/content/dam/news/www-ea/images/2022/09/ea-motive-new-title-teaser-16x9-featured.jpg.adapt.crop16x9.575p.jpg",
+      "text": "Iron Man 2",
+      "ratings": 8.2
+    },
+    {
+      "img": "https://cdn.prime1studio.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmmdc-02_a19.jpg",
+      "text": "Dark Night",
+      "ratings": 8.5
+    },
+    {
+      "img": "https://jasonsmovieblog.com/wp-content/uploads/2014/11/interstellar-2014-movie-poster.jpg",
+      "text": "Interstellar",
+      "ratings": 9.5
+    },
+    {
+      "img": "https://m.economictimes.com/thumb/msid-88317664,width-1200,height-900,resizemode-4,imgsize-80252/spider-man-no-way-home-is-also-driving-more-mentions-and-conversations-on-social-media-than-any-other-pandemic-era-release-.jpg",
+      "text": "Spider No Way Home",
+      "ratings": 7.5
+    },
+    {
+      "img": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Titanic_1676535709.jpg",
+      "text": "Titanic",
+      "ratings": 8.5
+    }
+  ]
+}

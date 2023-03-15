@@ -1,5 +1,8 @@
 import React from "react";
 import Videopalyer from "./components/video-player/Videoplayer";
+import { Carousel } from "./components/carousel/carousel";
+import caroselData from "./data/carousel.json"
+
 
 // const List = () => {
 //   return(
@@ -7,8 +10,9 @@ import Videopalyer from "./components/video-player/Videoplayer";
 //   )
 // }
 const App = () => {
-  return <div> 
-    <Videopalyer />
+  return <div>
+    {/* <Videopalyer /> */}
+    <Carousel data={caroselData}></Carousel>
   </div>;
 };
 

@@ -1,6 +1,6 @@
 {
   "name": "react-app",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "tailwind": "tailwindcss -i index.css -o ./dist/style.css"
   },
   "keywords": [],
-  "author": "",
+  "author": "pallawi,niraj",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
