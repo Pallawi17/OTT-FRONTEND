@@ -11,8 +11,8 @@ import caroselData from "./data/carousel.json"
 // }
 const App = () => {
   return <div>
-    {/* <Videopalyer /> */}
-    <Carousel data={caroselData}></Carousel>
+    <Videopalyer />
+    {/* <Carousel data={caroselData}></Carousel> */}
   </div>;
 };
 

@@ -1,0 +1,5 @@
+## __author__ = 'Pallawi'
+## disallow files/folders in same directory as the .gitignore file
+
+
+node_modules
